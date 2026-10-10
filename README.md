@@ -73,12 +73,10 @@ localStorage| Saving the selected theme
 📂 Project Structure
 
 Benjamina-Portfolio/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
 ---
 
 🎨 Design

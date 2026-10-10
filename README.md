@@ -1,12 +1,32 @@
-💜 Benjamina Mbaki — Portfolio Website
+# 💜 Benjamina Mbaki — Portfolio Website
 
-"Portfolio" (https://img.shields.io/badge/Portfolio-Lavender-purple)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-"GitHub Pages" (https://img.shields.io/badge/Deployed-GitHub%20Pages-222222?logo=github)
 
-🌸 About the Project
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Lavender-purple)
+
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
+
+
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222222?logo=github)
+
+
+
+## 🌸 About the Project
 
 This is my personal portfolio website, created as part of my Web Development Assignment at Gauteng City College, Faculty of Information Technology.
 
@@ -16,30 +36,23 @@ The website was designed and developed from scratch using HTML5, CSS3 and JavaSc
 
 ---
 
-🔗 Links
+## 🔗 Links
 
-Live Website:
-https://benjamina-mbaki.github.io/My-Portfolio/
-
-GitHub:
-https://github.com/Benjamina-Mbaki
-
-LinkedIn:
-https://www.linkedin.com/in/benjamina-mbaki-9ba046356/?isSelfProfile=true
-
-Email:
-benjaminambaki@gmail.com
+- **Live Website:** [benjamina-mbaki.github.io/My-Portfolio](https://benjamina-mbaki.github.io/My-Portfolio/)
+- **GitHub:** [github.com/Benjamina-Mbaki](https://github.com/Benjamina-Mbaki)
+- **LinkedIn:** [Benjamina Mbaki](https://www.linkedin.com/in/benjamina-mbaki-9ba046356/)
+- **Email:** [benjaminambaki@gmail.com](mailto:benjaminambaki@gmail.com)
 
 ---
 
-👩🏽 About Me
+## 👩🏽 About Me
 
 - Personal introduction
 - IT background
 - Learning goals
 - Education statistics
 
-💻 Skills
+## 💻 Skills
 
 The portfolio showcases skills and areas I am currently developing, including:
 
@@ -55,31 +68,36 @@ The portfolio showcases skills and areas I am currently developing, including:
 - GitHub
 - NetBeans
 - Database development
-  
-
-🛠️ Technologies Used
-
-Technology| Purpose
-HTML5| Website structure and content
-CSS3| Styling, layout and responsive design
-JavaScript| Interactivity and validation
-Git| Version control
-GitHub| Repository hosting
-GitHub Pages| Website deployment
-localStorage| Saving the selected theme
 
 ---
 
-📂 Project Structure
+## 🛠️ Technologies Used
 
-Benjamina-Portfolio/
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Website structure and content |
+| CSS3 | Styling, layout and responsive design |
+| JavaScript | Interactivity and validation |
+| Git | Version control |
+| GitHub | Repository hosting |
+| GitHub Pages | Website deployment |
+| localStorage | Saving the selected theme |
+
+---
+
+## 📂 Project Structure
+
+```
+My-Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
+
 ---
 
-🎨 Design
+## 🎨 Design
 
 The website uses a lavender, black and white colour palette to create a clean and personal visual identity.
 
@@ -98,11 +116,9 @@ The website was designed specifically for this portfolio project rather than usi
 
 ---
 
-🤖 AI & References
+## 🤖 AI & References
 
-ChatGPT (OpenAI) and Claude(Anthropic) was used to assist with planning, coding guidance, debugging and documentation.
-
-ChatGPT by OpenAI and Claude by Anthropic was used during development to:
+ChatGPT (OpenAI) and Claude (Anthropic) were used during development to:
 
 - Help plan the website structure
 - Suggest HTML/CSS/JavaScript approaches
@@ -115,7 +131,7 @@ The final project was reviewed and adapted for my portfolio and assignment requi
 
 ---
 
-🔐 Accessibility & Usability
+## 🔐 Accessibility & Usability
 
 The website includes several usability considerations:
 
@@ -130,19 +146,18 @@ The website includes several usability considerations:
 
 ---
 
-👩🏽‍💻 Author
+## 👩🏽‍💻 Author
 
-Benjamina Mbaki
+**Benjamina Mbaki**
 
 IT Student
 
-GitHub:
-https://github.com/Benjamina-Mbaki
+GitHub: [github.com/Benjamina-Mbaki](https://github.com/Benjamina-Mbaki)
 
 ---
 
-💜 Final Note
+## 💜 Final Note
 
-«Every expert was once a beginner.»
+> *"Every expert was once a beginner."*
 
 This portfolio represents my current development journey and the skills I am continuing to build as an IT student.

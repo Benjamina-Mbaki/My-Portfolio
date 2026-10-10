@@ -26,8 +26,7 @@
 
 
 ![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-222222?logo=github)
-
-
+</div>
 
 ## 🌸 About the Project
 

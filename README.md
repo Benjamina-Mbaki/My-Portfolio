@@ -91,6 +91,7 @@ My-Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
+├── me.jpeg
 └── README.md
 ```
 

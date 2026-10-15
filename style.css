@@ -949,3 +949,12 @@ body.light-theme .form-group textarea {
         margin-left: auto;
     }
 }
+.about-photo {
+    width: 100%;
+    max-width: 320px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 1px solid var(--border);
+    margin: 0 auto 25px;   
+}
